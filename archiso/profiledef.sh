@@ -3,7 +3,7 @@
 
 iso_name="Smith-Pad-OS"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
+iso_publisher="Smith-Pad"
 iso_application="Arch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
