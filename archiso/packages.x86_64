@@ -118,4 +118,5 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+xorg-xinit
 zsh
