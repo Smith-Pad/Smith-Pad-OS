@@ -21,3 +21,5 @@
 1. `ip link`
 
 2. `timedatectl set-ntp true`
+
+3. `fdisk -l`
