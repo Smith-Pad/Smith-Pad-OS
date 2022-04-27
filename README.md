@@ -12,4 +12,4 @@
 
 # Installation of Smith-Pad-OS
 > For the time being, the only way to install Smith-Pad-OS is to do it manually.
-> The steps are taken from the Arch Wiki
+> The steps are taken from the Arch Wiki [https://wiki.archlinux.org/title/installation_guide]
