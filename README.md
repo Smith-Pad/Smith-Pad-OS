@@ -9,3 +9,7 @@
 > ```shell
 > sudo sh build.sh
 > ```
+
+# Installation of Smith-Pad-OS
+> For the time being, the only way to install Smith-Pad-OS is to do it manually.
+> The steps are taken from the Arch Wiki
