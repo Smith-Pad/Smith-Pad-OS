@@ -17,3 +17,4 @@
 
 
 # Steps to Install Smith-Pad-OS
+> 1. 
