@@ -19,3 +19,7 @@
 # Steps to Install Smith-Pad-OS
 
 ###### 1. 
+
+```shell
+ip link
+```
