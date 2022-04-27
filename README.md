@@ -19,3 +19,5 @@
 # Steps to Install Smith-Pad-OS
 
 1. `ip link`
+
+2. `timedatectl set-ntp true`
