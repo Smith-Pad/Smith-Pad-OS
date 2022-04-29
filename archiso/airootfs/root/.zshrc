@@ -1,8 +1,8 @@
 ############################################################
-#				Smith-Pad-OS .zshrc config
+#		Smith-Pad-OS .zshrc config
 #
-#		This is not a regular .zshrc config. It is used 
-#		for auto configuring the live environment
+#	This is not a regular .zshrc config. It is used 
+#	for auto configuring the live environment
 #
 #
 #
