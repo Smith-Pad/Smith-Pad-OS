@@ -16,4 +16,8 @@ function enablegui() {
 	
 }
 
+function install() {
+	echo "hello world"
+}
+
 enablegui
