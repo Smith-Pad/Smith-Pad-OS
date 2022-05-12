@@ -35,6 +35,7 @@ function cleanup() {
 	sudo rm -rf base._make_pkglist                                  
 	sudo rm -rf base._make_version                                  
 	sudo rm -rf base._mkairootfs_squashfs
+	sudo rm -rf x86_64
 }
 
 
