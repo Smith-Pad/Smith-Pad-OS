@@ -104,6 +104,7 @@ squashfs-tools
 sudo
 syslinux
 systemd-resolvconf
+plasma-desktop
 tcpdump
 terminus-font
 testdisk
