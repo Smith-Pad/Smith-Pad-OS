@@ -36,9 +36,11 @@ function createFiles() {
 
 	## Create a new file called transfer-to-testing.sh
 	echo """
-	cp README.md ../OUTPUT
-	cp build.sh ../OUTPUT
-	cp -R archiso ../OUTPUT
+	cd DEVELOPMENT
+	cd Smith-Pad-OS
+	cp README.md ../../OUTPUT
+	cp build.sh ../../OUTPUT
+	cp -R archiso ../../OUTPUT
 	""" >> transfer-to-testing.sh
 
 
