@@ -11,9 +11,7 @@
 ############################################################
 
 function enablegui() {
-	systemctl enable gdm 
-	systemctl start gdm 
-	
+		
 }
 
 function install() {
