@@ -38,8 +38,12 @@ function createFiles() {
 	echo """
 	cd DEVELOPMENT
 	cd Smith-Pad-OS
-	sudo rm -rf ../../TESTING
-	mkdir ../../TESTING
+	cd
+	cd Smith-Pad-OS-Development-Environment
+	sudo rm -rf TESTING
+	mkdir TESTING
+	cd DEVELOPMENT
+	cd Smith-Pad-OS
 	cp README.md ../../TESTING
 	cp build.sh ../../TESTING
 	cp -R archiso ../../TESTING
