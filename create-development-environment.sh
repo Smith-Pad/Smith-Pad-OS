@@ -31,10 +31,20 @@ function createFiles() {
 	## Clone the Smith-Pad-OS Repository
 	git clone https://github.com/Smith-Pad/Smith-Pad-OS
 
+	## Go back to the Smith-Pad-OS-Development-Environment directory
+	cd ..
 
-	## Go to the Smith-Pad-OS Repository that it is just cloned 
-	cd Smith-Pad-OS
+	## Create a new file called transfer-to-testing.sh
+	echo """
+	cp README.md ../OUTPUT
+	cp build.sh ../OUTPUT
+	cp -R archiso ../OUTPUT
+	""" >> transfer-to-testing.sh
 
+
+
+		
+}
 
 	## Copy archiso to TESTING to prevent conflicts when generating
 	## iso image 
@@ -45,9 +55,8 @@ function createFiles() {
 	## iso image 
 	
 	cp build.sh ../TESTING
-	 
-		
-}
 
+
+	
 createFolders
 createFiles
