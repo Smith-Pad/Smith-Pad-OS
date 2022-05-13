@@ -96,6 +96,7 @@ rsync
 rxvt-unicode-terminfo
 screen
 sdparm
+sddm
 sg3_utils
 smartmontools
 sof-firmware
