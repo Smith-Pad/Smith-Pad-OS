@@ -38,9 +38,9 @@ function createFiles() {
 	echo """
 	cd DEVELOPMENT
 	cd Smith-Pad-OS
-	cp README.md ../../OUTPUT
-	cp build.sh ../../OUTPUT
-	cp -R archiso ../../OUTPUT
+	cp README.md ../../TESTING
+	cp build.sh ../../TESTING
+	cp -R archiso ../../TESTING
 	""" >> transfer-to-testing.sh
 
 
