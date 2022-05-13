@@ -57,12 +57,12 @@ function createFiles() {
 	## Copy archiso to TESTING to prevent conflicts when generating
 	## iso image 
 	
-	cp -R archiso ../../TESTING
+	cp -R archiso ../TESTING
 
 	## Copy build.sh file to TESTING to prevent conflicts when generating
 	## iso image 
 	
-	cp build.sh ../../TESTING
+	cp build.sh ../TESTING
 
 
 	
