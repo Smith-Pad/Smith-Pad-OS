@@ -11,7 +11,8 @@
 ############################################################
 
 function enablegui() {
-		
+	systemctl enable sddm
+	systemctl start sddm		
 }
 
 function install() {
