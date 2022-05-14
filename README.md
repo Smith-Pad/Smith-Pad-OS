@@ -20,8 +20,7 @@ git clone https://github.com/Smith-Pad-OS
 2. After you clone the repository from the previous step, 
    please run this command to build the development 
    environment. The development environment will be 
-   generated in your Home Directory 
-   `home/<user>/Smith-Pad-OS-Development-Environment`
+   generated in your Home Directory `home/<user>/Smith-Pad-OS-Development-Environment`
 
 ```shell
 sh create-development-environment
