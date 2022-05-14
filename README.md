@@ -3,11 +3,15 @@
 > Smith-Pad-OS is an operating system based on Arch Linux.
 
 
-# Building the Image 
+# Building the Smith-Pad-OS Development Environment
 
-> In order to build the image, please run this command: 
-> ```shell
-> sudo sh build.sh
-> ```
+> Building the Smith-Pad-OS Development Environment is easy as 123. 
+> Just follow the steps here. 
 
-# Installation of Smith-Pad-OS
+
+1. Please clone the repository by typing in this command: 
+
+```shell
+git clone https://github.com/Smith-Pad-OS
+```
+
