@@ -29,3 +29,16 @@ git clone https://github.com/Smith-Pad-OS
 ```shell
 sh create-development-environment
 ```
+
+
+
+3. After you run the command shown in the previous step, 
+   please type this command to go to your Home Directory
+
+
+```shell
+cd 
+```
+
+
+
