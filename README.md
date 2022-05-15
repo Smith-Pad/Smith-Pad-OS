@@ -51,3 +51,19 @@ cd Smith-Pad-OS-Development-Environment
 ```
 
 
+
+
+# Procedures to create, generate, and test Smith-Pad-OS ISO Images 
+
+> Now, you followed the previous steps how to generate the Smith-Pad-OS Development Environment, 
+> Please follow these steps here in order to properly build, create, and test Smith-Pad-OS ISO 
+> Images. Before doing that though, please note the differences between `DEVELOPMENT`, and 
+> `TESTING`
+
+
+# DEVELOPMENT
+
+
+
+
+# TESTING
