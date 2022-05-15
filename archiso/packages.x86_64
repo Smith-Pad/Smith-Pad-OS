@@ -132,3 +132,13 @@ kitty-terminfo
 virtualbox-guest-utils-nox
 xorg
 xterm
+
+
+
+
+
+###########################################
+#	Video Drivers 
+#
+###########################################
+xf86-video-intel
