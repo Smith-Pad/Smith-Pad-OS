@@ -41,4 +41,13 @@ cd
 ```
 
 
+4. After you type the command shown in the previous step,
+   please type this command to go to the Smith-Pad-OS-Development-Environment. 
+
+
+```shell
+cd Smith-Pad-OS-Development-Environment
+
+```
+
 
