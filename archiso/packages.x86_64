@@ -43,7 +43,6 @@ irssi
 iw
 iwd
 jfsutils
-kitty-terminfo
 less
 lftp
 libfido2
@@ -70,7 +69,6 @@ mtools
 nano
 nbd
 ndisc6
-networkmanager
 nfs-utils
 nilfs-utils
 nmap
@@ -79,13 +77,11 @@ nvme-cli
 openconnect
 openssh
 openvpn
-open-vm-tools
 partclone
 parted
 partimage
 pcsclite
 ppp
-plasma-desktop
 pptpclient
 pv
 qemu-guest-agent
@@ -103,8 +99,8 @@ sof-firmware
 squashfs-tools
 sudo
 syslinux
-systemd-resolvconf
 tcpdump
+systemd-resolvconf
 terminus-font
 testdisk
 tmux
@@ -114,7 +110,6 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -122,6 +117,18 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+zsh
+
+
+
+
+
+
+
+networkmanager
+open-vm-tools
+plasma-desktop
+kitty-terminfo
+virtualbox-guest-utils-nox
 xorg
 xterm
-zsh
