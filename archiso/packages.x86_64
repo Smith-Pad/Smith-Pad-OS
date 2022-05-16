@@ -129,6 +129,7 @@ networkmanager
 open-vm-tools
 openbox
 kitty-terminfo
+kwin
 virtualbox-guest-utils-nox
 xorg
 xterm
