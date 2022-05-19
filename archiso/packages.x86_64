@@ -128,11 +128,12 @@ zsh
 networkmanager
 open-vm-tools
 openbox
+pcmanfm
 kitty-terminfo
 kwin
 virtualbox-guest-utils-nox
-xorg
 xterm
+xorg
 
 
 
