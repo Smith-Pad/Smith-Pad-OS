@@ -63,7 +63,42 @@ cd Smith-Pad-OS-Development-Environment
 
 # DEVELOPMENT
 
+> Inside this folder, this is where you are able to develop and play around with Smith-Pad-OS 
+> Components as well as the ability to make changes via git. 
 
 
 
 # TESTING
+
+> Inside this folder, this is where you are able to generate and build the image. 
+> However, in order to get this working, please follow the steps given here. 
+
+
+1. Once you are ready to generate and build the image from DEVELOPMENT, please 
+   make sure you are on this directory: `Smith-Pad-OS-Development-Environment`
+   and run this command: `sh transfer-to-testing`. 
+
+
+2. After completing the first step, please change the directory to TESTING, and 
+   run this command to build and generate the image: `sudo sh build.sh`. 
+
+
+
+3. After completing the second step, the building process may take minutes or 
+   hours depending on the system that you have. 
+
+
+4. After completing the third step, please run this command to run the live ISO 
+   image: `run_archiso -i out/Smith-Pad-OS<DATE>.iso`
+
+
+# if you want to update your changes in DEVELOPMENT, please follow the steps here: 
+
+1. Make sure you on this directory: `Smith-Pad-OS-Development-Environment`
+
+2. Type this command to remove the TESTING folder: `sudo rm -rf TESTING`
+
+3. After completing the second step, please type this command to make a 
+   new directory: `mkdir TESTING`.
+
+4. After completing the third step, go back to the previous steps above. 
