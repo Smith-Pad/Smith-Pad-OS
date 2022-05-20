@@ -133,6 +133,7 @@ kitty-terminfo
 kwin
 virtualbox-guest-utils-nox
 qterminal
+lxqt-desktop
 xterm
 xorg
 
