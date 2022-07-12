@@ -11,12 +11,7 @@
 ############################################################
 
 function enablegui() {
-	systemctl enable lxdm
-	systemctl start lxdm
-}
-
-function install() {
-	echo "hello world"
+	
 }
 
 enablegui
